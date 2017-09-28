@@ -1,0 +1,3 @@
+Kolme riviä tekstiä.
+Tämä on toinen rivi.
+Tämä taas viimeinen rivi kolmesta.
