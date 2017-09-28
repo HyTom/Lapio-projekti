@@ -1,3 +1,4 @@
 Kolme riviä tekstiä.
 Tämä on toinen rivi.
 Tämä taas viimeinen rivi kolmesta.
+Mutta täältä tulee renegade neljäs rivi.
