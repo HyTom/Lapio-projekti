@@ -2,4 +2,8 @@ Kolme riviä tekstiä.
 Tämä on toinen rivi.
 Tämä taas viimeinen rivi kolmesta.
 Mutta täältä tulee renegade neljäs rivi.
+<<<<<<< Updated upstream
 Viides rivi vahvistaa kolmen rivin suojaamattomuuden.
+=======
+TÄMÄ ON PARAS TEHTÄVÄ IKINÄ
+>>>>>>> Stashed changes
