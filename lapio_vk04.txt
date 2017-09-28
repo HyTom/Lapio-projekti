@@ -1,5 +1,6 @@
 Kolme riviä tekstiä.
 Tämä on toinen rivi.
+Kolmen rivin liitto katkennut, viesti githubista.
 Tämä taas viimeinen rivi kolmesta.
 Mutta täältä tulee renegade neljäs rivi.
 Viides rivi vahvistaa kolmen rivin suojaamattomuuden.
